@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js and Express application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
